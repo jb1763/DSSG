@@ -5,7 +5,7 @@ See a static version of the Jupyter Notebook in the html file
 
 pure python is in the .py file.
 
-This project is mainly a preliminary exploration of a data set to get an understanding of what the data is like.
+This project is a preliminary exploration of a data set to get an understanding of what the data is like.
 
 Because of this, it is mainly scripting and doesn't show off OOP knowledge.
 
